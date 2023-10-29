@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: lightgray;
+}
+
+header{
+
+    width:60% ;
+    height: 250px;
+    background:white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+header img{
+   width: 35%;
+   margin-top: 30px;
+}
+
+h1{
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    padding-left: 20px;
+    font-weight: bold;
+    color:black;
+    font-size: 18px;
+    
+
+}
+
+ h2 {
+    font-weight: bold;
+    padding-top: 40px;
+    font-size: 32px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  }
+
+.apie{
+    width:60% ;
+    background:white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+.apie img{
+    width: 94%
+}
+
+.apie p{
+    background: white;
+    text-align: left;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+    border-radius: 5px;
+    
+}
+.produktai{
+    width:60% ;
+    background:white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-align: center;
+    padding-bottom: 30px;  
+}
+h3{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: 1000;
+    
+}
+.produktai img {
+    width: 15% ;
+}
+
+.produktai-item p{
+    font-size: 16px;
+    font-weight: 900;
+}
+
+.produktai-item1 img{
+    padding-top: 3%;
+    width: 25% 
+}
+
+.produktai-item1 p{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.kontaktai1{
+    width:60% ;
+    background:white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.kontaktai2 {
+
+padding-top: 30px;
+text-align: left;
+margin-left: 40px;  
+padding-bottom: 20px; 
+}
+
+.copyright p{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+iframe{
+    width: 96%;
+    padding-bottom: 30px;
+}
